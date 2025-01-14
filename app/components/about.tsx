@@ -20,13 +20,13 @@ const About = () => {
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
        About Me 
         <br className="inline-block"/>
-        Hi I'm <span className='text-blue-600 '> Muhammad Raheem </span>
+        Hi I&#39;m <span className='text-blue-600 '> Muhammad Raheem </span>
       </h1>
       <p className="mb-4 leading-relaxed">
         I am a passionate Software Engineer with a strong background in Web Development, I have been crafting digital experiences for 01 year.
       </p>
       <p className="mb-4 leading-relaxed">
-      My journey in IT began in 2023 since then, I've had the privilege to work on a diverse range of projects, allowing me to refine my skills and approach to problem-solving.
+      My journey in IT began in 2023 since then, I&#39;ve had the privilege to work on a diverse range of projects, allowing me to refine my skills and approach to problem-solving.
       </p>
       <p className="mb-6 leading-relaxed">
       I thrive on turning complex ideas into elegant solutions that not only meet user needs but also create lasting impacts.

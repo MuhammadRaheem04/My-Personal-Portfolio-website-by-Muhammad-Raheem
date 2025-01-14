@@ -12,7 +12,7 @@ const Footer = () => {
       <footer className="text-gray-600 body-font">
   <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
     <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-    <Image src={require('../../public/assets/logo.png')} alt='logo' width={100} height={100}
+    <Image src="/assets/logo.png" alt='logo' width={100} height={100}
                    className='w-14 rounded-full'
                    />
       <span className="ml-3 text-xl">Raheem — Web Developer </span>

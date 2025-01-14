@@ -25,7 +25,7 @@ const Hero = () => {
           <div className='w-[100px] h-[2px] bg-blue-700'></div>
           <p className="mb-8 leading-relaxed">
             I am a passionate Frontend Developer with a strong background in Web Development, I have been crafting digital experiences for 01 year.
-            My journey in IT began in 2023 since then, I've had the privilege to work on a diverse range of projects, allowing me to refine my skills and approach to problem-solving.
+            My journey in IT began in 2023 since then, I&#39;ve had the privilege to work on a diverse range of projects, allowing me to refine my skills and approach to problem-solving.
             I thrive on turning complex ideas into elegant solutions that not only meet user needs but also create lasting impacts.
           </p>
           <div className="flex justify-center">
